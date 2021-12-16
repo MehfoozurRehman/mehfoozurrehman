@@ -6,12 +6,6 @@ I'm <strong>Mehfooz-ur-Rehman</strong> Web Developer and UI/UX Designer from Sam
 My job is to build functional and user-friendly and at the same time attractive websites for you. Moreover, I add a personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
 </p>
 
-<div>
-  <a href="https://github.com/mehfoozurrehman">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mehfoozurrehman&count_private=true&theme=cobalt&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehfoozurrehman&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
-
 <p align="left">
   🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, React JS, MERN.
 </p>
