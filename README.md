@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="340px" max-width="400px" width="340px" align="right" alt="Computador">
+<img src="./laptop.svg" min-width="340px" max-width="400px" width="340px" align="right" alt="laptop">
 
 <p align="left"> 
 I'm <strong>Mehfooz-ur-Rehman</strong> Web Developer and UI/UX Designer from Samundri, Pakistan, working in Haramosh Studio startup based in Samundri, Pakistan. I enjoy turning complex problems into simple, beautiful and intuitive solutions.
