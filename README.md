@@ -7,11 +7,11 @@ My job is to build functional and user-friendly and at the same time attractive 
 </p>
 
 <p align="left">
-  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, React JS, MERN.
+  🦄 <strong>Skills:</strong> HTML5, CSS3, JavaScript, Bootstrap, ReactJS, MongoDB, ExpressJS, NodeJS, Typescript, Graphql, Rest.
 </p>
 
 <p align="left">
-  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, GitHub Desktop, Windows Terminal, Firebase, Adobe XD and Git.
+  💼 <strong>Tools:</strong> Visual Studio Code, Android Studio, GitHub Desktop, Windows Terminal, Firebase, Netlify, Adobe XD and Git.
 </p>
 
 Emails:
