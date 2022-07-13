@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehfooz-ur-Rehman</h1>
-<h3 align="center">A Web Developer and UI/UX Designer from Samundri, Pakistan, working in Crazybeings studios a startup based in Samundri, Pakistan. I enjoy turning complex problems into simple, beautiful and intuitive solutions.
+<p align="center">A Web Developer and UI/UX Designer from Samundri, Pakistan, working in Crazybeings studios a startup based in Samundri, Pakistan. I enjoy turning complex problems into simple, beautiful and intuitive solutions.
  
-My job is to build functional and user-friendly and at the same time attractive websites for you. Moreover, I add a personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.</h3>
+My job is to build functional and user-friendly and at the same time attractive websites for you. Moreover, I add a personal touch to your product and make sure that it is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehfoozurrehman&label=Profile%20views&color=0e75b6&style=flat" alt="mehfoozurrehman" /> </p>
 
@@ -25,5 +25,3 @@ My job is to build functional and user-friendly and at the same time attractive 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehfoozurrehman&show_icons=true&locale=en&layout=compact" alt="mehfoozurrehman" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehfoozurrehman&show_icons=true&locale=en" alt="mehfoozurrehman" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehfoozurrehman&" alt="mehfoozurrehman" /></p>
