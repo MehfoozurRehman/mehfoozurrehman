@@ -9,11 +9,10 @@ My job is to build functional, user-friendly and at the same time attractive web
 
 ##
 
-🧠 I'm currently learning "remix"
+🧠 I'm currently learning "facor, relay"
 
 👯‍♀️ I'm looking to collaborate on anthing related to "reactjs"
 
 🤔 I'm looking for help with anything related to "react"
 
-💬 Ask me about development of sites
-
+💬 Ask me about development of web apps, mobile apps, rest apis and everything frontend using react and nodejs
