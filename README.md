@@ -9,7 +9,7 @@ My job is to build functional, user-friendly and at the same time attractive web
 
 ##
 
-🧠 I'm currently learning "falcor, relay"
+🧠 I'm currently learning "amazon selling-partner-api, gulpjs"
 
 👯‍♀️ I'm looking to collaborate on anthing related to "reactjs"
 
