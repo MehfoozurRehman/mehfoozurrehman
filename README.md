@@ -1,18 +1,11 @@
-# Hi, I'm Mehfooz-ur-rehman! 👋
+# Hello! I'm Mehfooz-ur-rehman 👋
 
+I'm a web developer based in Samundri, Pakistan. With a passion for turning complex problems into simple, stunning, and intuitive solutions, I take pride in building functional, user-friendly, and visually-appealing websites. I add my personal touch to every project I work on to ensure it's easy on the eyes and effortless to use. My ultimate aim as a developer is to help you communicate your message and brand identity in a creative and intuitive way.
 
-## 🚀 About Me
-A Web Developer from Samundri, Pakistan, working at Crazybeings studios a startup based in Samundri, Pakistan. I enjoy turning complex problems into simple, beautiful & intuitive solutions.
+## What I'm up to:
 
-My job is to build functional, user-friendly and at the same time attractive websites for you. Moreover, I add a personal touch to your product to make sure that it is eye-catching & easy to use. My aim is to bring across your message & identity in the most creative way.
+🧠 Learning new skills all the time! Currently, I'm diving into the world of Amazon selling-partner-api and GulpJS.
 
+👯‍♀️ Ready to work on anything related to ReactJS! Collaborating on projects, sharing knowledge, or seeking new opportunities for growth and learning… count me in!
 
-##
-
-🧠 I'm currently learning "amazon selling-partner-api, gulpjs"
-
-👯‍♀️ I'm looking to collaborate on anthing related to "reactjs"
-
-🤔 I'm looking for help with anything related to "react"
-
-💬 Ask me about development of web apps, mobile apps, rest apis and everything frontend using react and nodejs
+🤔 Searching for assistance with React. Whether it's a simple tip or complex development issues, I'm always eager to learn and grow my skills.
