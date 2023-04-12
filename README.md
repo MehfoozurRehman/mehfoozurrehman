@@ -4,7 +4,7 @@ I'm a web developer based in Samundri, Pakistan. With a passion for turning comp
 
 ## What I'm up to:
 
-🧠 Learning new skills all the time! Currently, I'm diving into the world of Amazon selling-partner-api and GulpJS.
+🧠 Learning new skills all the time! Currently, I'm diving into the world of nextjs 13 and react server components.
 
 👯‍♀️ Ready to work on anything related to ReactJS! Collaborating on projects, sharing knowledge, or seeking new opportunities for growth and learning… count me in!
 
