@@ -10,10 +10,6 @@ I'm a web developer based in Samundri, Pakistan. With a passion for turning comp
 
 🤔 Searching for assistance with React. Whether it's a simple tip or complex development issues, I'm always eager to learn and grow my skills.
 
-## How I can help you:
-
-👨‍💻 I can help you with ReactJS, NextJS, and TailwindCSS.
-
 ## How to reach me:
 
 📧 Email: [
