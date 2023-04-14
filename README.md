@@ -9,3 +9,48 @@ I'm a web developer based in Samundri, Pakistan. With a passion for turning comp
 👯‍♀️ Ready to work on anything related to ReactJS! Collaborating on projects, sharing knowledge, or seeking new opportunities for growth and learning… count me in!
 
 🤔 Searching for assistance with React. Whether it's a simple tip or complex development issues, I'm always eager to learn and grow my skills.
+
+## How I can help you:
+
+👨‍💻 I can help you with ReactJS, NextJS, and TailwindCSS.
+
+## How to reach me:
+
+📧 Email: [
+](mailto:mehfoozijaz786@gmail.com)
+👔 LinkedIn: [
+](https://www.linkedin.com/in/mehfooz-ur-rehman-323a89264/)
+🌐 Website: [
+](https://mehfooz-ur-rehman.web.app/)
+
+## My Skills:
+
+### Frontend:
+
+- ReactJS
+- NextJS
+- TailwindCSS
+- Material UI
+- Bootstrap
+- HTML
+- CSS
+- JavaScript
+
+### Backend:
+
+- NodeJS
+- ExpressJS
+- MongoDB
+- Firebase
+
+### Tools:
+
+- Git
+- Github
+- VS Code
+- Figma
+- Adobe XD
+
+## My Stats:
+
+![Mehfooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mehfooz-ur-Rehman&show_icons=true&theme=radical)
