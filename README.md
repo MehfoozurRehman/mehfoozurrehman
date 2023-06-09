@@ -10,4 +10,4 @@ I'm a web developer based in Samundri, Pakistan. With a passion for turning comp
 
 🤔 Searching for assistance with React. Whether it's a simple tip or complex development issues, I'm always eager to learn and grow my skills.
 
-![Metrics](https://metrics.lecoq.io/?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FKarachi)
+![Metrics](https://metrics.lecoq.io/mehfoozurrehman/?template=classic&base.indepth=true&base.hireable=true&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&config.timezone=Asia%2FKarachi)
