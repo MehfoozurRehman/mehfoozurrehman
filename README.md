@@ -3,4 +3,4 @@ I'm a versatile developer from Samundri, Pakistan. I craft seamless experiences 
 ## What I'm up to:
 🧠 Constantly expanding my skill set! Currently, I'm delving into the latest features of Next.js 13 and exploring the potential of React server components.
 
-Collaborating on ReactJS, React Native, and Electron projects. Open to new ideas, contributions, and sharing insights. Let's connect!
+☀️ Collaborating on ReactJS, React Native, and Electron projects. Open to new ideas, contributions, and sharing insights. Let's connect!
