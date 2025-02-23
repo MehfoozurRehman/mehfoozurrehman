@@ -1,6 +1,8 @@
-# Greetings! I'm Mehfooz-ur-rehman 👋
-I'm a developer from Samundri, Pakistan. I craft seamless experiences for web, mobile, and desktop platforms. I build elegant, intuitive, and visually captivating software.
-## What I'm up to:
-🧠 Constantly expanding my skill set! Currently, I'm delving into the latest features of Next.js 13 and exploring the potential of React server components.
+# 👋 Hey, I'm Mehfooz-ur-Rehman!  
+A passionate developer from Samundri, Pakistan, crafting seamless experiences across web, mobile, and desktop platforms. I thrive on building elegant, intuitive, and visually captivating software that enhances user experiences.  
 
-☀️ Collaborating on ReactJS, React Native, and Electron projects. Open to new ideas, contributions, and sharing insights. Let's connect!
+## 🚀 What I’m Up To:  
+- **🧠 Always Learning:** Currently diving deep into Next.js 13 and exploring the power of React Server Components.  
+- **🤝 Building & Collaborating:** Actively working on ReactJS, React Native, and Electron projects. I’m always open to fresh ideas, contributions, and insightful discussions.  
+
+Let's connect and create something amazing together! 🚀  
