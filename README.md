@@ -1,13 +1,31 @@
-# 👋 Hi, I'm Mehfooz-ur-Rehman
+# 👋 Hi, I'm Mehfooz-ur-Rehman  
 
-I'm a passionate full-stack developer from Samundri, Pakistan, dedicated to building seamless, user-friendly, and visually appealing software across web, mobile, and desktop platforms. My mission is to turn complex problems into simple, beautiful, and intuitive solutions that delight users.
+Full-stack developer from Pakistan building real-world systems across web, mobile, and desktop.
 
-## 🚀 What I'm Working On
+I work with **React, Next.js, React Native (Expo), Electron, Node.js, MongoDB, Prisma, and Convex**, focusing on scalable architecture, real-time systems, and clean, maintainable code.
 
-- **🌱 Lifelong Learner:** Currently exploring Next.js, React Server Components, and the latest in modern web development.
-- **💻 Building & Collaborating:** Actively developing with ReactJS, React Native, and Electron. I love collaborating on open-source projects and innovative ideas.
-- **🎨 UI/UX Enthusiast:** Focused on creating elegant, accessible, and high-performance interfaces.
+## 🚀 What I'm Working On  
+- Building production systems (CRM, CMS, real estate platforms)  
+- Exploring **Next.js (RSC)** and modern full-stack patterns  
+- Designing APIs and data models for complex workflows  
+- Working with integrations (SMS, email, maps, LLMs)  
+- Experimenting with **Convex for real-time + serverless architectures**  
 
-## 🤝 Let's Connect
+## 🧠 Tech I Use  
+- Frontend: React, Next.js  
+- Mobile: React Native (Expo)  
+- Desktop: Electron  
+- Backend: Node.js, Convex  
+- Database: MongoDB + Prisma, Convex DB  
+- Infra: Vercel, third-party APIs  
 
-I'm always open to new opportunities, collaborations, and meaningful conversations. Feel free to reach out if you want to work together or just chat about tech!
+## ⚙️ Current Interests  
+- System design for large apps  
+- Real-time architectures (Convex, event-driven patterns)  
+- Performance + DX improvements  
+- Automation using LLMs  
+
+## 🤝 Open To  
+- Collaboration on serious projects  
+- Scalable product development  
+- Interesting problems worth solving  
