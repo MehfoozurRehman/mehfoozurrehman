@@ -5,9 +5,9 @@
 </p>
 
 <p align="left">
-  <a href="https://mehfoozurrehman.me"><img src="https://img.shields.io/badge/Portfolio-Live_Showcase-059669?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://mehfooz-ur-rehman.web.app"><img src="https://img.shields.io/badge/Portfolio-Live_Showcase-059669?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://github.com/MehfoozurRehman"><img src="https://img.shields.io/badge/GitHub-Public_Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:contact@mehfoozurrehman.me"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:mehfooz@devscot.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
