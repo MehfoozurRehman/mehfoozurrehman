@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mehfooz-ur-Rehman
 
 <p align="left">
-  <strong>Full-Stack Product Engineer & Founder</strong> • 6+ Years Software House Track Record (Devscot, CrazyBeings, LeadProfit) • Faisalabad / Samundri, Pakistan
+  <strong>Full-Stack Product Engineer & Founder</strong> • 6+ Years Software Development Experience (Devscot, CrazyBeings, LeadProfit) • Faisalabad / Samundri, Pakistan
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I design, architect, and ship high-velocity digital products, local-first desktop apps, real-time enterprise platforms, and AI workflows. With over **6+ years of software house experience**, I specialize in taking products from zero to production scale — prioritizing pragmatic architecture, offline tolerance, and friction-free user experiences.
+I design, architect, and ship high-velocity digital products, local-first desktop apps, real-time enterprise platforms, and AI workflows. With over **6+ years of software development experience**, I specialize in taking products from zero to production scale — prioritizing pragmatic architecture, offline tolerance, and friction-free user experiences.
 
 - 🏗️ **Founder & Lead Architect** at [Karobari](https://github.com/MehfoozurRehman/karobari) — An AI-powered business operating system and digital storefront generator for Pakistani merchants built around conversational WhatsApp voice/text interactions.
 - ⚡ **Real-Time & Local-First Engineering**: Building reactive cloud systems (**Convex**, Supabase), desktop workstations (**Electron** + React 19), and cross-platform mobile apps (**React Native / Expo**).
