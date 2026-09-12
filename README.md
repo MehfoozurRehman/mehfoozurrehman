@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mehfooz-ur-Rehman
 
-I'm a **Full-Stack Product Engineer & Founder** based in Pakistan with over 6 years of experience architecting and shipping web applications, cross-platform mobile apps, and real-time cloud systems. Currently, I'm the founder and lead engineer behind [Karobari](https://github.com/MehfoozurRehman/karobari)—building conversational, AI-driven commerce tools that empower local merchants to run digital storefronts directly through WhatsApp.
+I'm a **Lead Full-Stack Product Engineer** at **Devscot** with over 6 years of experience architecting and shipping web applications, cross-platform mobile apps, and real-time cloud systems. I spend my days (and late nights) deeply focused on engineering scalable SaaS platforms, enterprise ERP ecosystems, and high-concurrency client products.
 
-As a person and builder, I care deeply about craftsmanship, practical problem-solving, and human connection. I believe the best software gets out of the user's way—combining resilience, fast feedback loops, and thoughtful design to make technology feel effortless. Outside of writing code and designing reactive systems, I'm driven by lifelong learning, mentoring fellow developers, and turning ambitious ideas into simple, dependable realities.
+As a builder and person, I thrive on high-intensity problem-solving, craftsmanship, and pragmatic execution. I believe great software should be rock-solid, fast, and effortless for the people who rely on it every day. Whether designing reactive full-stack architectures (Next.js, TypeScript, Convex), engineering native mobile apps, or building automation workflows, I bring deep commitment, ownership, and a craft-first mindset to everything I create.
 
 ---
 
