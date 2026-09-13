@@ -9,6 +9,6 @@ As a builder and person, I thrive on high-intensity problem-solving, craftsmansh
 <p align="left">
   <a href="https://mehfooz-ur-rehman.web.app">🌐 Portfolio</a> &nbsp;•&nbsp;
   <a href="https://github.com/MehfoozurRehman">🐙 GitHub</a> &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/mehfooz-rehman-37a1b0231/">💼 LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/mehfoozurrehman786">💼 LinkedIn</a> &nbsp;•&nbsp;
   <a href="mailto:mehfoozijaz786@gmail.com">📬 Get in Touch</a>
 </p>
