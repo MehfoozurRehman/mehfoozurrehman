@@ -1,13 +1,22 @@
-# 👋 Hi, I'm Mehfooz-ur-Rehman
+# Hi, I'm Mehfooz-ur-Rehman
 
-I'm a **Lead Full-Stack Product Engineer** at **Devscot** with over 6 years of experience architecting and shipping web applications, cross-platform mobile apps, and real-time cloud systems. I spend my days (and late nights) deeply focused on engineering scalable SaaS platforms, enterprise ERP ecosystems, and high-concurrency client products.
+Full-stack engineer building web, mobile and messaging products end to end, from data model to deployment.
 
-As a builder and person, I thrive on high-intensity problem-solving, craftsmanship, and pragmatic execution. I believe great software should be rock-solid, fast, and effortless for the people who rely on it every day. Whether designing reactive full-stack architectures (Next.js, TypeScript, Convex), engineering native mobile apps, or building automation workflows, I bring deep commitment, ownership, and a craft-first mindset to everything I create.
+## What I build
 
----
+- **Web apps and SaaS platforms**: Astro, Next.js, Convex and Firebase
+- **Cross-platform mobile apps**: Expo and React Native, one codebase for web, iOS and Android
+- **Conversational commerce and WhatsApp automation**
+- **Desktop automation and internal tools**
 
-<p align="left">
-  <a href="https://mehfooz-ur-rehman.web.app"><img src="https://img.shields.io/badge/Portfolio-Live_Showcase-059669?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/MehfoozurRehman"><img src="https://img.shields.io/badge/GitHub-Public_Projects-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:mehfooz@devscot.com"><img src="https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+## Featured case studies
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [academiee](https://github.com/MehfoozurRehman/academiee) | Academy and tuition-centre management with fees, attendance, timetables and a student portal | Expo, React Native, Convex |
+| [portfolio](https://github.com/MehfoozurRehman/portfolio) | Static personal site with case-study pages and a generated CV | Astro, React islands, Tailwind CSS, PDFKit |
+| [convex-next-demo](https://github.com/MehfoozurRehman/convex-next-demo) | Real-time starter with live presence and a shared todo list | Next.js, Convex, React 19 |
+
+## Contact
+
+Reach me through the portfolio at [mehfoozurrehmanv8.web.app](https://mehfoozurrehmanv8.web.app).
